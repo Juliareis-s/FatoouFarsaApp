@@ -54,7 +54,7 @@ SwiftUI, Xcode, Git/GitHub, SiriKit (futuro – Pergunta do Dia)
 **Fato ou Farsa** é uma forma divertida, educativa e acessível de treinar o **pensamento crítico**, ajudando idosos a navegar na internet de maneira **mais segura e consciente**.
 ---
 ## Contato / Contact
-Se você tiver dúvidas sobre a política de privacidade ou sobre o app, entre em contato:  
+Se você tiver dúvidas ou sugestões, entre em contato:  
 
 **E-mail:** fatooufarsa.suporte@gmail.com
 
